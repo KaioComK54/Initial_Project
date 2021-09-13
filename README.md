@@ -9,5 +9,7 @@ Listagem de tópicos enumerados:
 * Tópico 2
 
 Links Externos:
-[GIT Documentation](https://git-scm.com/doc)
-[GitHub](https://github.com/)
+1. [GIT Documentation](https://git-scm.com/doc)
+2. [GitHub](https://github.com/)
+
+![GitHub Image](https://image.flaticon.com/icons/png/512/25/25231.png)
